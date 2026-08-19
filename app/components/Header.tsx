@@ -44,7 +44,7 @@ export default function Header() {
             </div>
             <div className="flex flex-col">
               <span className="text-navy font-bold text-lg leading-tight tracking-tight">
-                Dr. Tooba
+                Whiteline
               </span>
               <span className="text-slate-500 text-[11px] font-medium tracking-wider uppercase">
                 Dental Clinic
@@ -73,7 +73,7 @@ export default function Header() {
               Emergency
             </a>
             <a
-              href="https://wa.me/923211234567?text=Hello%20Dr.%20Tooba%2C%20I%20would%20like%20to%20book%20an%20appointment."
+              href="https://wa.me/923211234567?text=Hello%20Whiteline%20Dental%2C%20I%20would%20like%20to%20chat."
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-5 py-2.5 text-sm font-semibold text-white bg-navy rounded-xl hover:bg-navy-light transition-all duration-200 hover:shadow-lg hover:shadow-navy/20"
@@ -126,7 +126,7 @@ export default function Header() {
                   Emergency Call
                 </a>
                 <a
-                  href="https://wa.me/923211234567?text=Hello%20Dr.%20Tooba%2C%20I%20would%20like%20to%20book%20an%20appointment."
+                  href="https://wa.me/923211234567?text=Hello%20Whiteline%20Dental%2C%20I%20would%20like%20to%20chat."
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={() => setIsOpen(false)}

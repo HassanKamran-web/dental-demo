@@ -66,23 +66,23 @@ export default function Hero() {
             </h1>
 
             <p className="text-lg text-slate-600 leading-relaxed mb-8 max-w-xl">
-              Comprehensive dental treatment by Dr. Tooba using advanced
+              Comprehensive dental treatment by Whiteline Dental Clinic using advanced
               painless technology. From routine check-ups to complete smile
               makeovers — we deliver excellence.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 mb-10">
               <a
-                href="https://wa.me/923211234567?text=Hello%20Dr.%20Tooba%2C%20I%20would%20like%20to%20book%20an%20appointment."
+                href="https://wa.me/923211234567?text=Hello%20Whiteline%20Dental%2C%20I%20would%20like%20to%20chat."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center justify-center gap-3 px-8 py-4 bg-navy text-white font-semibold rounded-2xl hover:bg-navy-light transition-all duration-300 hover:shadow-xl hover:shadow-navy/20 hover:-translate-y-0.5"
               >
-                Chat with Dr. Tooba
+                Chat with Whiteline Dental
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </a>
               <a
-                href="https://wa.me/923211234567?text=Hello%20Dr.%20Tooba%2C%20I%20would%20like%20to%20book%20an%20appointment."
+                href="https://wa.me/923211234567?text=Hello%20Whiteline%20Dental%2C%20I%20would%20like%20to%20chat."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="whatsapp-btn inline-flex items-center justify-center gap-3 px-8 py-4 text-white font-semibold rounded-2xl"

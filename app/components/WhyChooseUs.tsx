@@ -58,7 +58,7 @@ export default function WhyChooseUs() {
             Why Patients Trust Us
           </span>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-navy mb-4 tracking-tight">
-            Why Dr. Tooba?
+            Why Whiteline Dental Clinic?
           </h2>
           <p className="text-slate-600 text-lg max-w-2xl mx-auto">
             Your comfort and safety are our top priorities. Here&apos;s what sets

@@ -29,7 +29,7 @@ export default function Footer() {
               </div>
               <div>
                 <p className="font-bold text-lg leading-tight">
-                  Dr. Tooba
+                  Whiteline
                 </p>
                 <p className="text-white/50 text-xs tracking-wider uppercase">
                   Dental Clinic
@@ -132,7 +132,7 @@ export default function Footer() {
       <div className="border-t border-white/10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-white/40">
-            &copy; {new Date().getFullYear()} Dr. Tooba Dental Clinic. All
+            &copy; {new Date().getFullYear()} Whiteline Dental Clinic. All
             rights reserved.
           </p>
           <p className="text-xs text-white/40 flex items-center gap-1">

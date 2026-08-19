@@ -7,7 +7,7 @@ const testimonials = [
   {
     name: "Fatima Khan",
     rating: 5,
-    text: "Dr. Tooba is incredibly gentle and professional. I was terrified of dentists my whole life, but my root canal was completely painless. The clinic is spotless and the staff is amazing!",
+    text: "Whiteline Dental is incredibly gentle and professional. I was terrified of dentists my whole life, but my root canal was completely painless. The clinic is spotless and the staff is amazing!",
     verified: true,
     initial: "FK",
     color: "bg-cyan-accent/10 text-cyan-accent",
@@ -23,7 +23,7 @@ const testimonials = [
   {
     name: "Ayesha Malik",
     rating: 5,
-    text: "My daughter got her aligners here and the transformation has been incredible. Dr. Tooba explains everything clearly and makes sure the patient is comfortable at every step.",
+    text: "My daughter got her aligners here and the transformation has been incredible. Whiteline Dental explains everything clearly and makes sure the patient is comfortable at every step.",
     verified: true,
     initial: "AM",
     color: "bg-violet-50 text-violet-600",
@@ -31,7 +31,7 @@ const testimonials = [
   {
     name: "Hassan Ali",
     rating: 5,
-    text: "Best dental clinic in Lahore, hands down. The 3-tier sterilization protocol gave me confidence. My dental implant looks and feels completely natural. Thank you, Dr. Tooba!",
+    text: "Best dental clinic in Lahore, hands down. The 3-tier sterilization protocol gave me confidence. My dental implant looks and feels completely natural. Thank you, Whiteline Dental!",
     verified: true,
     initial: "HA",
     color: "bg-emerald-50 text-emerald-600",
@@ -47,7 +47,7 @@ const testimonials = [
   {
     name: "Bilal Ahmed",
     rating: 5,
-    text: "Dr. Tooba saved my tooth with a single-sitting root canal. I was in severe pain and he fit me in the same day. The pain-free technology is real — no exaggeration!",
+    text: "Whiteline Dental saved my tooth with a single-sitting root canal. I was in severe pain and he fit me in the same day. The pain-free technology is real — no exaggeration!",
     verified: true,
     initial: "BA",
     color: "bg-blue-50 text-blue-600",
