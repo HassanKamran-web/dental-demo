@@ -9,9 +9,9 @@ const plusJakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Dr. Asif Mansoori | Best Dental Clinic in Lahore | Painless Dentistry",
+  title: "Dr. Tooba | Best Dental Clinic in Lahore | Painless Dentistry",
   description:
-    "Dr. Asif Mansoori Dental Clinic — Top-rated dental clinic in Lahore offering painless root canal, teeth whitening, dental implants, orthodontics & cosmetic dentistry. Book your consultation today!",
+    "Dr. Tooba Dental Clinic — Top-rated dental clinic in Lahore offering painless root canal, teeth whitening, dental implants, orthodontics & cosmetic dentistry. Book your consultation today!",
   keywords: [
     "dentist in Lahore",
     "dental clinic Lahore",
@@ -19,10 +19,10 @@ export const metadata: Metadata = {
     "teeth whitening Lahore",
     "dental implants",
     "root canal treatment",
-    "Dr. Asif Mansoori",
+    "Dr. Tooba",
   ],
   openGraph: {
-    title: "Dr. Asif Mansoori Dental Clinic | Best Dentist in Lahore",
+    title: "Dr. Tooba Dental Clinic | Best Dentist in Lahore",
     description:
       "Expert dental care with advanced painless technology. Book your appointment today.",
     type: "website",
