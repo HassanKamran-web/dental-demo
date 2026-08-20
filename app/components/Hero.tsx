@@ -152,7 +152,7 @@ export default function Hero() {
             {floatingCards.map((card) => (
               <div
                 key={card.label}
-                className={`absolute ${card.position} ${card.animation} z-20`}
+                className={`absolute ${card.position} ${card.animation} z-20 hidden sm:flex`}
               >
                 <div
                   className={`flex items-center gap-2 px-4 py-2.5 rounded-xl border backdrop-blur-sm bg-white/90 shadow-lg ${card.color}`}
