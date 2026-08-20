@@ -56,7 +56,7 @@ export default function Hero() {
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-cyan-accent/10 border border-cyan-accent/20 rounded-full mb-6">
               <Sparkles className="w-4 h-4 text-cyan-accent" />
               <span className="text-sm font-semibold text-navy">
-                Top Rated Dental Clinic in Lahore
+                Top Rated Dental Clinic in Karachi
               </span>
             </div>
 
@@ -66,23 +66,23 @@ export default function Hero() {
             </h1>
 
             <p className="text-lg text-slate-600 leading-relaxed mb-8 max-w-xl">
-              Comprehensive dental treatment by Whiteline Dental Clinic using advanced
+              Comprehensive dental treatment by Dr. Humail & Associates using advanced
               painless technology. From routine check-ups to complete smile
               makeovers — we deliver excellence.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 mb-10">
               <a
-                href="https://wa.me/923211234567?text=Hello%20Whiteline%20Dental%2C%20I%20would%20like%20to%20chat."
+                href="https://wa.me/923315553579?text=Hello%20Dr.%20Humail%2C%20I%20would%20like%20to%20chat."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center justify-center gap-3 px-8 py-4 bg-navy text-white font-semibold rounded-2xl hover:bg-navy-light transition-all duration-300 hover:shadow-xl hover:shadow-navy/20 hover:-translate-y-0.5"
               >
-                Chat with Whiteline Dental
+                Chat with Dr. Humail
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </a>
               <a
-                href="https://wa.me/923211234567?text=Hello%20Whiteline%20Dental%2C%20I%20would%20like%20to%20chat."
+                href="https://wa.me/923315553579?text=Hello%20Dr.%20Humail%2C%20I%20would%20like%20to%20chat."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="whatsapp-btn inline-flex items-center justify-center gap-3 px-8 py-4 text-white font-semibold rounded-2xl"

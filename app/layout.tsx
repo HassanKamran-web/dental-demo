@@ -9,20 +9,20 @@ const plusJakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Whiteline Dental Clinic | Best Dental Clinic in Lahore | Painless Dentistry",
+  title: "Dr. Humail & Associates | Best Dental Clinic in Karachi | Painless Dentistry",
   description:
-    "Whiteline Dental Clinic — Top-rated dental clinic in Lahore offering painless root canal, teeth whitening, dental implants, orthodontics & cosmetic dentistry. Book your consultation today!",
+    "Dr. Humail & Associates — Top-rated dental clinic in Karachi offering painless root canal, teeth whitening, dental implants, orthodontics & cosmetic dentistry. Book your consultation today!",
   keywords: [
-    "dentist in Lahore",
-    "dental clinic Lahore",
+    "dentist in Karachi",
+    "dental clinic Karachi",
     "painless dentist",
-    "teeth whitening Lahore",
+    "teeth whitening Karachi",
     "dental implants",
     "root canal treatment",
-    "Whiteline Dental Clinic",
+    "Dr. Humail & Associates",
   ],
   openGraph: {
-    title: "Whiteline Dental Clinic | Best Dentist in Lahore",
+    title: "Dr. Humail & Associates | Best Dentist in Karachi",
     description:
       "Expert dental care with advanced painless technology. Book your appointment today.",
     type: "website",

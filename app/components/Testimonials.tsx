@@ -7,7 +7,7 @@ const testimonials = [
   {
     name: "Fatima Khan",
     rating: 5,
-    text: "Whiteline Dental is incredibly gentle and professional. I was terrified of dentists my whole life, but my root canal was completely painless. The clinic is spotless and the staff is amazing!",
+    text: "Dr. Humail & Associates is incredibly gentle and professional. I was terrified of dentists my whole life, but my root canal was completely painless. The clinic is spotless and the staff is amazing!",
     verified: true,
     initial: "FK",
     color: "bg-cyan-accent/10 text-cyan-accent",
@@ -15,7 +15,7 @@ const testimonials = [
   {
     name: "Ahmed Raza",
     rating: 5,
-    text: "Got my teeth whitening done here — the results were instant! The pricing was transparent with no hidden costs. Highly recommend for anyone looking for quality dental care in Lahore.",
+    text: "Got my teeth whitening done here — the results were instant! The pricing was transparent with no hidden costs. Highly recommend for anyone looking for quality dental care in Karachi.",
     verified: true,
     initial: "AR",
     color: "bg-amber-50 text-amber-600",
@@ -23,7 +23,7 @@ const testimonials = [
   {
     name: "Ayesha Malik",
     rating: 5,
-    text: "My daughter got her aligners here and the transformation has been incredible. Whiteline Dental explains everything clearly and makes sure the patient is comfortable at every step.",
+    text: "My daughter got her aligners here and the transformation has been incredible. Dr. Humail & Associates explains everything clearly and makes sure the patient is comfortable at every step.",
     verified: true,
     initial: "AM",
     color: "bg-violet-50 text-violet-600",
@@ -31,7 +31,7 @@ const testimonials = [
   {
     name: "Hassan Ali",
     rating: 5,
-    text: "Best dental clinic in Lahore, hands down. The 3-tier sterilization protocol gave me confidence. My dental implant looks and feels completely natural. Thank you, Whiteline Dental!",
+    text: "Best dental clinic in Karachi, hands down. The 3-tier sterilization protocol gave me confidence. My dental implant looks and feels completely natural. Thank you, Dr. Humail & Associates!",
     verified: true,
     initial: "HA",
     color: "bg-emerald-50 text-emerald-600",
@@ -47,7 +47,7 @@ const testimonials = [
   {
     name: "Bilal Ahmed",
     rating: 5,
-    text: "Whiteline Dental saved my tooth with a single-sitting root canal. I was in severe pain and he fit me in the same day. The pain-free technology is real — no exaggeration!",
+    text: "Dr. Humail & Associates saved my tooth with a single-sitting root canal. I was in severe pain and he fit me in the same day. The pain-free technology is real — no exaggeration!",
     verified: true,
     initial: "BA",
     color: "bg-blue-50 text-blue-600",

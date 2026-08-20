@@ -13,8 +13,8 @@ const quickLinks = [
   { label: "Dental Implants", href: "#treatments" },
   { label: "Root Canal Treatment", href: "#treatments" },
   { label: "Patient Reviews", href: "#reviews" },
-  { label: "Emergency Care", href: "tel:+923211234567" },
-  { label: "WhatsApp Chat", href: "https://wa.me/923211234567" },
+  { label: "Emergency Care", href: "tel:+923315553579" },
+  { label: "WhatsApp Chat", href: "https://wa.me/923315553579" },
 ];
 
 export default function Footer() {
@@ -29,7 +29,7 @@ export default function Footer() {
               </div>
               <div>
                 <p className="font-bold text-lg leading-tight">
-                  Whiteline
+Dr. Humail & Associates
                 </p>
                 <p className="text-white/50 text-xs tracking-wider uppercase">
                   Dental Clinic
@@ -37,7 +37,7 @@ export default function Footer() {
               </div>
             </div>
             <p className="text-white/60 text-sm leading-relaxed mb-5">
-              Providing exceptional dental care in Lahore with advanced painless
+              Providing exceptional dental care in Karachi with advanced painless
               technology. Your smile is our passion and priority.
             </p>
             <div className="flex items-center gap-2 text-sm text-white/60">
@@ -73,14 +73,16 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-cyan-accent flex-shrink-0 mt-0.5" />
                 <span className="text-sm text-white/60 leading-relaxed">
-                  Main Boulevard, Gulberg III,
+                  Shop 1, Phase 1, Taqi Plaza,
                   <br />
-                  Lahore, Pakistan
+                  Block J, North Nazimabad,
+                  <br />
+                  Karachi, Pakistan
                 </span>
               </li>
               <li>
                 <a
-                  href="tel:+923211234567"
+                  href="tel:+923315553579"
                   className="flex items-center gap-3 text-sm text-white/60 hover:text-cyan-accent transition-colors"
                 >
                   <Phone className="w-5 h-5 text-cyan-accent flex-shrink-0" />
@@ -89,7 +91,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://wa.me/923211234567"
+                  href="https://wa.me/923315553579"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 text-sm text-white/60 hover:text-cyan-accent transition-colors"
@@ -107,7 +109,7 @@ export default function Footer() {
             </h4>
             <div className="rounded-2xl overflow-hidden border border-white/10 bg-white/5 aspect-square flex items-center justify-center">
               <a
-                href="https://maps.google.com/?q=Gulberg+III+Lahore"
+                href="https://maps.google.com/?q=North+Nazimabad+Karachi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex flex-col items-center gap-3 text-center p-6 hover:text-cyan-accent transition-colors group"
@@ -132,7 +134,7 @@ export default function Footer() {
       <div className="border-t border-white/10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-white/40">
-            &copy; {new Date().getFullYear()} Whiteline Dental Clinic. All
+            &copy; {new Date().getFullYear()} Dr. Humail & Associates. All
             rights reserved.
           </p>
           <p className="text-xs text-white/40 flex items-center gap-1">
