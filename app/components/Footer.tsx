@@ -5,7 +5,6 @@ import {
   MapPin,
   Clock,
   ArrowUpRight,
-  Heart,
 } from "lucide-react";
 
 const quickLinks = [
@@ -138,8 +137,7 @@ Dr. Humail & Associates
             rights reserved.
           </p>
           <p className="text-xs text-white/40 flex items-center gap-1">
-            Built with <Heart className="w-3 h-3 text-red-400 fill-red-400" /> for
-            fast response
+            Built with ZentyxStudio
           </p>
         </div>
       </div>
