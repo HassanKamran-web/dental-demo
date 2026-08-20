@@ -126,7 +126,9 @@ export default function Treatments() {
                   {treatment.price}
                 </span>
                 <a
-                  href="#booking"
+                  href={`https://wa.me/923315553579?text=Hello%20Dr.%20Humail%2C%20I%20am%20interested%20in%20${encodeURIComponent(treatment.title)}.%20Please%20share%20details.`}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="inline-flex items-center gap-1.5 text-sm font-semibold text-navy hover:text-cyan-accent transition-colors group/link"
                 >
                   Book Service
