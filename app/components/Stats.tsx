@@ -5,7 +5,7 @@ import { Clock, Users, Trophy, ShieldCheck } from "lucide-react";
 
 const stats = [
   { icon: Clock, value: "10+", label: "Years Experience", description: "Practicing dentistry" },
-  { icon: Users, value: "5,000+", label: "Happy Patients", description: "Smiles transformed" },
+  { icon: Users, value: "5K+", label: "Happy Patients", description: "Smiles transformed" },
   { icon: Trophy, value: "99%", label: "Success Rate", description: "Treatment outcomes" },
   { icon: ShieldCheck, value: "100%", label: "Sterilized Equipment", description: "Safety guaranteed" },
 ];
